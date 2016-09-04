@@ -1,0 +1,27 @@
+.wraper {
+    background: #f5f5f2;
+    width: 800px;
+    margin: 0 auto;
+}
+.img{ 
+    text-align: center;
+}
+img {
+    box-shadow: 0 0 10px;
+    background: black;
+    padding: 1px;
+}
+.phone,
+.profile,
+.feedbek {
+    margin-left: 40px;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+hr {
+    border: none;
+    background: #6b6a6e;
+    padding: 1px;
+}
